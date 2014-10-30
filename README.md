@@ -1,4 +1,0 @@
-FCA
-===
-
-Format Concept Analysis
